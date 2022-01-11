@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/minseo/Desktop/c언어/기초100제/1001.c
+stdio.h
+-
+
+/Users/minseo/Desktop/c언어/기초100제/1002.c
+stdio.h
+-
+
