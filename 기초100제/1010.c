@@ -1,4 +1,9 @@
-//
-// Created by 섹띠한민서짱 on 2022/01/12.
-//
+#include <stdio.h>
 
+int main()
+{
+    int n;
+    scanf("%d", &n);
+    printf("%d", n);
+    return 0;
+}
